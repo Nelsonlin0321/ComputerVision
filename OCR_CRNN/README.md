@@ -4,7 +4,7 @@
 
 # CTC Loss Introduction
 
-![](./scr/imgs/ctc_loss.JPG)
+![](./src/imgs/ctc_loss.JPG)
 
 # Prediction Display‘
 
