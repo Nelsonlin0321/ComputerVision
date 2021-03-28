@@ -8,5 +8,5 @@
 
 # Prediction Display‘
 
-![](./scr/imgs/prediction_display.png)
+![](./src/imgs/prediction_display.png)
 
